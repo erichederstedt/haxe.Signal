@@ -1,0 +1,15 @@
+{
+  "name": "haxe.Signal",
+  "url": "https://github.com/erichederstedt/haxe.Signal",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A very simple signal system for Haxe.",
+  "releasenote": "",
+  "contributors": ["eric"],
+  "dependencies": {
+    "thx.core": "",
+    "buddy": ""
+  },
+  "tags": [],
+  "classPath": "src"
+}
