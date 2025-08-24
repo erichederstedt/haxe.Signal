@@ -31,4 +31,8 @@ abstract Signal<T:Function>(SignalData<T>) {
 			Reflect.callMethod(null, listener, args);
 		}
 	}
+
+	public inline function clear() {
+		this.listeners.resize(0);
+	}
 }
